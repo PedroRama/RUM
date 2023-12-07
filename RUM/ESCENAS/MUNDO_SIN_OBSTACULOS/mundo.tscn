@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://obq66u60q2jk"]
+
+[ext_resource type="PackedScene" uid="uid://bu40qykjyy550" path="res://ESCENAS/MUNDO_SIN_OBSTACULOS/WORLD.glb" id="1_lp552"]
+
+[node name="MUNDO" type="Node3D"]
+
+[node name="WORLD" parent="." instance=ExtResource("1_lp552")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.09496, 0, 0.0557749)

@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://d342gufoljhk4"]
+
+[ext_resource type="PackedScene" uid="uid://cbviihgdwk2fe" path="res://ESCENAS/OBJETOS/TRONCO/Tronco.glb" id="1_otccs"]
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_bsh87"]
+
+[node name="TRONCO" type="Node3D"]
+
+[node name="Node3D" type="Node3D" parent="."]
+
+[node name="Tronco" parent="." instance=ExtResource("1_otccs")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.107868, -1.19209e-07, -0.0197971)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(0.8, 0, 0, 0, -2.62268e-07, -0.8, 0, 6, -3.49691e-08, 0.725731, 4.60443, -0.278569)
+shape = SubResource("CylinderShape3D_bsh87")

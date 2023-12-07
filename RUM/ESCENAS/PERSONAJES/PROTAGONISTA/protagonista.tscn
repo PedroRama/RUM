@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://w80q8mcojnnn"]
+
+[ext_resource type="PackedScene" uid="uid://1ajjsyng1y85" path="res://ESCENAS/PERSONAJES/PROTAGONISTA/corriendo_sitio.glb" id="1_du1at"]
+
+[node name="Protagonista" type="Node3D"]
+
+[node name="Protagonista" type="Node3D" parent="."]
+
+[node name="corriendo_sitio" parent="." instance=ExtResource("1_du1at")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00818014, 1.19209e-07, 0.00948739)
+
+[node name="corriendo_sitio2" parent="." instance=ExtResource("1_du1at")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00818014, 1.19209e-07, 0.00948739)

@@ -1,0 +1,57 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1700207331
+icon.svg::CompressedTexture2D::6154172578856533485::1700131434::1700131440::1::::<><>::
+::res://ESCENAS/::1700214924
+::res://ESCENAS/MUNDO_SIN_OBSTACULOS/::1700213592
+mundo.tscn::PackedScene::985736680744338072::1700213592::0::1::::<><>::uid://bu40qykjyy550::::res://ESCENAS/MUNDO_SIN_OBSTACULOS/WORLD.glb
+WORLD.glb::PackedScene::3851612285293539693::1700131069::1700131547::1::::<><>::
+WORLD_terrain 1_BaseColor.png::CompressedTexture2D::8440416319288346300::1700131506::1700131877::1::::<><>::
+WORLD_terrain 1_BaseColor_4.png::CompressedTexture2D::5488737689827124071::1700131533::1700131877::1::::<><>::
+WORLD_terrain 1_Normal_GL.png::CompressedTexture2D::338604788546423341::1700131496::1700131877::1::::<><>::
+WORLD_terrain 1_Normal_GL_3.png::CompressedTexture2D::602225684173583468::1700131522::1700131877::1::::<><>::
+WORLD_terrain 1_Roughness.png::CompressedTexture2D::3728915728559991634::1700131514::1700131877::1::::<><>::
+WORLD_terrain 1_Roughness_5.png::CompressedTexture2D::4511985009887454405::1700131541::1700131877::1::::<><>::
+::res://ESCENAS/MUNDO_SIN_OBSTACULOS_ESQUINA_DERECHA/::1700215341
+esquina_derecha.tscn::PackedScene::678437279793278803::1700215341::0::1::::<><>::res://ESCENAS/MUNDO_SIN_OBSTACULOS_ESQUINA_DERECHA/WORLD.glb
+WORLD_terrain 1_Roughness.png::CompressedTexture2D::5476248548551492962::1700214983::1700215020::1::::<><>::
+WORLD_terrain 1_BaseColor.png::CompressedTexture2D::8747459531724754787::1700214975::1700215020::1::::<><>::
+WORLD_terrain 1_Normal_GL.png::CompressedTexture2D::4375040105277000802::1700214965::1700215020::1::::<><>::
+WORLD.glb::::-1::1700214422::1700214990::0::::<><>::
+::res://ESCENAS/MUNDO_SIN_OBSTACULOS_ESQUINA_IZQUIERDA/::1700215619
+WORLD_terrain 1_Roughness.png::CompressedTexture2D::3063842950113431463::1700215660::1700215667::1::::<><>::
+WORLD_terrain 1_BaseColor.png::CompressedTexture2D::4381966915995325559::1700215651::1700215667::1::::<><>::
+WORLD_terrain 1_Normal_GL.png::CompressedTexture2D::2977757741227101475::1700215641::1700215667::1::::<><>::
+WORLD.glb::::-1::1700215619::0::0::::<><>::
+::res://ESCENAS/OBJETOS/::1700213186
+::res://ESCENAS/OBJETOS/ROCA/::1700213583
+roca.tscn::PackedScene::8218092493567298562::1700213583::0::1::::<><>::uid://bdhho11qw5ott::::res://ESCENAS/OBJETOS/ROCA/Roca.glb
+Roca.glb::PackedScene::2611889285479231137::1700127595::1700213193::1::::<><>::
+::res://ESCENAS/OBJETOS/TRONCO/::1700213581
+tronco.tscn::PackedScene::9186067760222250117::1700213581::0::1::::<><>::uid://cbviihgdwk2fe::::res://ESCENAS/OBJETOS/TRONCO/Tronco.glb
+Tronco.glb::PackedScene::4886882543251268266::1700127583::1700213194::1::::<><>::uid://g7cjdyf5c1au::::res://ESCENAS/OBJETOS/TRONCO/Tronco_Ch22_1002_Diffuse.png<>uid://36nqladx0hwb::::res://ESCENAS/OBJETOS/TRONCO/Tronco_Ch22_1002_Normal.png<>uid://8k56ay1m3f0j::::res://ESCENAS/OBJETOS/TRONCO/Tronco_trunk wood_final_map.png
+Tronco_Ch22_1002_Diffuse.png::CompressedTexture2D::487330851001516428::1700131551::1700213195::1::::<><>::
+Tronco_Ch22_1002_Normal.png::CompressedTexture2D::2030101803774087201::1700131548::1700213194::1::::<><>::
+Tronco_trunk wood_final_map.png::CompressedTexture2D::2338752525263482319::1700131553::1700213194::1::::<><>::
+::res://ESCENAS/PERSONAJES/::1700127674
+::res://ESCENAS/PERSONAJES/DINOSAURIOS/::1700133404
+::res://ESCENAS/PERSONAJES/DINOSAURIOS/BOSH/::1700213587
+Grande.glb::PackedScene::2025373356372572425::1700133742::1700136672::1::::<><>::uid://bu4gv3kedjm2p
+Grande_bear_diffuse.png::CompressedTexture2D::3850467801238051277::1700136670::1700136672::1::::<><>::
+Grande_bear_normal.png::CompressedTexture2D::5466609221847843109::1700136667::1700136672::1::::<><>::
+Grande_bear_specular.png::CompressedTexture2D::5656317229906369096::1700136665::1700136666::1::::<><>::
+antagonista.tscn::PackedScene::1330205427160879498::1700213587::0::1::::<><>::uid://bu4gv3kedjm2p::::res://ESCENAS/PERSONAJES/DINOSAURIOS/BOSH/Grande_bear_diffuse.png<>uid://cj5cixap6tw0t::::res://ESCENAS/PERSONAJES/DINOSAURIOS/BOSH/Grande_bear_normal.png
+::res://ESCENAS/PERSONAJES/DINOSAURIOS/SUBDITE/::1700133400
+::res://ESCENAS/PERSONAJES/PROTAGONISTA/::1700213590
+corriendo_sitio.glb::PackedScene::1825473442764222128::1700010789::1700131591::1::::<><>::uid://chc4ttsmmbt0n
+corriendo_sitio_Ch22_1001_Diffuse.png::CompressedTexture2D::5270087777546424307::1700131572::1700133334::1::::<><>::
+corriendo_sitio_Ch22_1001_Glossiness.png::CompressedTexture2D::3178441266128005553::1700131580::1700133334::1::::<><>::
+corriendo_sitio_Ch22_1001_Normal.png::CompressedTexture2D::9018073690002783715::1700131560::1700133334::1::::<><>::
+corriendo_sitio_Ch22_1001_Specular.png::CompressedTexture2D::1603233495507087379::1700131555::1700131555::1::::<><>::
+corriendo_sitio_Ch22_1002_Diffuse.png::CompressedTexture2D::3824490003063219004::1700131588::1700133334::1::::<><>::
+corriendo_sitio_Ch22_1002_Normal.png::CompressedTexture2D::2967747894465380552::1700131586::1700133334::1::::<><>::
+protagonista.tscn::PackedScene::1613827275360481507::1700213590::0::1::::<><>::uid://1ajjsyng1y85::::res://ESCENAS/PERSONAJES/PROTAGONISTA/corriendo_sitio.glb
+::res://TEXTURAS/::1700131492
+coast_sand_rocks_02_diff_2k.jpg::CompressedTexture2D::7325009155138087430::1700049409::1700131492::1::::<><>::
+coast_sand_rocks_02_disp_2k.png::CompressedTexture2D::4355564710757738726::1700049409::1700131492::1::::<><>::
+coast_sand_rocks_02_nor_gl_2k.exr::::-1::0::0::0::::<><>::
+coast_sand_rocks_02_rough_2k.exr::CompressedTexture2D::646232420952279573::1700049409::1700131491::1::::<><>::

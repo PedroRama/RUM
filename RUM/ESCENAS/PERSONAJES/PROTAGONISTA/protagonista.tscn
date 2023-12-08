@@ -8,6 +8,3 @@
 
 [node name="corriendo_sitio" parent="." instance=ExtResource("1_du1at")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00818014, 1.19209e-07, 0.00948739)
-
-[node name="corriendo_sitio2" parent="." instance=ExtResource("1_du1at")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00818014, 1.19209e-07, 0.00948739)
